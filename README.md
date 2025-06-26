@@ -84,7 +84,7 @@ server.connection.timeout=30000      # Connection timeout (ms)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/concurrent-web-server.git
+git clone https://github.com/AnderssonProgramming/concurrent-web-server.git
 cd concurrent-web-server
 ```
 
@@ -361,23 +361,6 @@ We welcome contributions! Please follow these guidelines:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-### Development Setup
-
-```bash
-# Clone your fork
-git clone https://github.com/your-username/concurrent-web-server.git
-cd concurrent-web-server
-
-# Install dependencies
-mvn clean install
-
-# Run tests
-mvn test
-
-# Start development server
-mvn spring-boot:run
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -391,7 +374,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/concurrent-web-server/issues)
 - **Documentation**: This README and code comments
 - **Examples**: See test files for usage examples
 
@@ -399,4 +381,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you found it helpful!**
 
-*Built with ❤️ and lots of ☕ by [Your Name]*
+*Built with ❤️ and lots of ☕ by Andersson Sanchez*
